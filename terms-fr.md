@@ -4,7 +4,7 @@ lang: fr
 ---
 # Conditions d'utilisation de Walyo
 
-*Dernière mise à jour : 17 octobre 2026*
+*Dernière mise à jour : 18 octobre 2026*
 
 Walyo est une application qui sert à suivre vos abonnements (montants, dates de paiement, rappels). En l'utilisant, vous acceptez ces conditions, écrites simplement. Si elles ne vous conviennent pas, n'utilisez pas l'application.
 
@@ -27,7 +27,7 @@ Les montants, les dates et les rappels sont calculés à partir de ce que vous a
 
 ## Votre compte
 
-- Le compte est **facultatif** : sans compte, tout reste sur votre téléphone.
+- Un compte est nécessaire pour utiliser Walyo : il garde vos abonnements en sécurité et les retrouve si vous changez de téléphone.
 - Vous pouvez créer un compte avec votre **adresse e-mail** ou avec **Google** (sur Android). Donnez une adresse qui est la vôtre et gardez votre mot de passe pour vous.
 - Vous êtes responsable de ce qui se passe avec votre compte. Si vous pensez qu'il a été utilisé sans votre accord, changez votre mot de passe.
 - Walyo ne s'adresse pas aux enfants de moins de 13 ans (ou de moins de 15 ans en France sans l'accord d'un parent).

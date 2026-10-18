@@ -4,14 +4,14 @@ lang: en
 ---
 # Walyo Privacy Policy
 
-*Last updated: 17 October 2026*
+*Last updated: 18 October 2026*
 
 Walyo is an app for keeping track of your subscriptions (amounts, payment dates, reminders). This page explains, in plain words, what information the app uses, where it is kept and what you can do with it.
 
 ## In short
 
-- Walyo works **on your phone**. Depending on the version of the app, you can also create an **account** with your e-mail address: it is what lets you **get your subscriptions back if you change phone**.
-- **Without an account**, your subscriptions stay on your phone only. **With an account**, they are also kept on **our servers in Europe (Frankfurt)**.
+- Walyo works with an **account**, created with your e-mail address or with Google: it is what lets you **get your subscriptions back if you change phone**.
+- Your subscriptions are kept on your phone and on **our servers in Europe (Frankfurt)**.
 - We do not **sell** your data, show **no ads**, do not **track** you and use **no analytics tool**.
 - You can **delete your account and all your data** at any time from the app (Settings → Delete my account).
 
@@ -22,7 +22,7 @@ Contact: contact@houmorstudio.com
 
 ## The information we keep
 
-**On our servers (only if you create an account)**
+**On our servers**
 
 | Information | What it is for |
 |---|---|

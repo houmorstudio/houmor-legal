@@ -4,14 +4,14 @@ lang: fr
 ---
 # Politique de confidentialité de Walyo
 
-*Dernière mise à jour : 17 octobre 2026*
+*Dernière mise à jour : 18 octobre 2026*
 
 Walyo est une application qui sert à suivre vos abonnements (montants, dates de paiement, rappels). Cette page explique, simplement, quelles informations l'application utilise, où elles sont conservées et ce que vous pouvez en faire.
 
 ## En résumé
 
-- Walyo fonctionne **sur votre téléphone**. Selon la version de l'application, vous pouvez aussi créer un **compte** avec votre adresse e-mail : c'est ce qui permet de **retrouver vos abonnements si vous changez de téléphone**.
-- **Sans compte**, vos abonnements restent uniquement sur votre téléphone. **Avec un compte**, ils sont aussi conservés sur **nos serveurs, en Europe (Francfort)**.
+- Walyo fonctionne avec un **compte**, créé avec votre adresse e-mail ou avec Google : c'est ce qui permet de **retrouver vos abonnements si vous changez de téléphone**.
+- Vos abonnements sont conservés sur votre téléphone et sur **nos serveurs, en Europe (Francfort)**.
 - Nous ne **vendons** pas vos données, n'affichons **aucune publicité**, ne vous **suivons** pas et n'utilisons **aucun outil de mesure d'audience**.
 - Vous pouvez **supprimer votre compte et toutes vos données** à tout moment depuis l'application (Réglages → Supprimer mon compte).
 
@@ -22,7 +22,7 @@ Contact : contact@houmorstudio.com
 
 ## Les informations que nous conservons
 
-**Sur nos serveurs (uniquement si vous créez un compte)**
+**Sur nos serveurs**
 
 | Information | À quoi elle sert |
 |---|---|

@@ -4,7 +4,7 @@ lang: en
 ---
 # Walyo Terms of Use
 
-*Last updated: October 17, 2026*
+*Last updated: October 18, 2026*
 
 Walyo is an app to keep track of your subscriptions (amounts, payment dates, reminders). By using it, you accept these terms, written in plain language. If they don't suit you, please don't use the app.
 
@@ -27,7 +27,7 @@ Amounts, dates and reminders are worked out from what you entered. They are **fo
 
 ## Your account
 
-- The account is **optional**: without one, everything stays on your phone.
+- An account is needed to use Walyo: it keeps your subscriptions safe and brings them back if you change phone.
 - You can create an account with your **e-mail address** or with **Google** (on Android). Give an address that is yours and keep your password to yourself.
 - You are responsible for what happens with your account. If you think it was used without your consent, change your password.
 - Walyo is not meant for children under 13 (or under 15 in France without a parent's consent).
